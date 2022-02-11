@@ -1,0 +1,17 @@
+site_name: Wspieram Przyrodę
+site_description: Dokumentacja dla programistów
+site_author: wspieramprzyrode
+site_url: https://wspieramprzyrode.github.io/dev-doc/
+dev_addr: 127.0.0.1:9000
+theme:
+  name: 'material'
+repo_name: wspieramprzyrode/dev-doc
+repo_url: https://github.com/wspieramprzyrode/dev-doc
+markdown_extensions:
+  - toc
+  - extra
+  - codehilite
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed
