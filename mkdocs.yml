@@ -7,6 +7,7 @@ theme:
   name: 'material'
 repo_name: wspieramprzyrode/dev-doc
 repo_url: https://github.com/wspieramprzyrode/dev-doc
+edit_uri: ./edit/main/docs
 markdown_extensions:
   - toc
   - extra
